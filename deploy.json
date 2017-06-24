@@ -1,0 +1,9 @@
+{
+  "REPO_URL":"https://github.com/msbitsee/my-first-blog.git",
+  "PROJECT_NAME":"djangogirls",
+  "REMOTE_HOST":"tickta.tk",
+  "REMOTE_USER":"django",
+  "STATIC_ROOT":"static",
+  "STATIC_URL":"static",
+  "MEDIA_ROOT":"media"
+}
